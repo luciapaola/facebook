@@ -1,0 +1,31 @@
+{
+    margin: 0;
+    pading: 0;
+    box-sizing: border-box;
+}
+
+body {
+   background-color: #f0f2f5;
+   font-family: Arial, Helvetica, sans-serif;
+}
+
+.container{
+   height: 100vh;
+   padding: 1rem;
+}
+
+.logo img{
+   display: block;
+   margin: auto;
+   width: 200px;
+}
+
+.connect-friends{
+   text-align: center;
+   font-size: 1.2rem;
+   line-height: 28px;
+}
+
+.form{
+   display: block;
+}
